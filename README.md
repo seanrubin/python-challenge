@@ -30,7 +30,7 @@ The greatest decrease in profits (date and amount) over the entire period
   From this you can see that the highest increase in profits took place on August 16th and the greatest decrease in profits took place on Feburary 14th.
 
 
-# ---------------------------------------------------------
+# ----------------------------------------------------------------------------------------
 
 
 # PyPoll Instructions
