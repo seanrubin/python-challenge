@@ -13,7 +13,8 @@ The greatest increase in profits (date and amount) over the entire period
 
 The greatest decrease in profits (date and amount) over the entire period
 
-#Financial Analysis
+
+# Financial Analysis
 
 Total Months: 86
 
@@ -24,6 +25,7 @@ Average Change: $-8311.11
 Greatest Increase in Profits: Aug-16 ($1862002)
 
 Greatest Decrease in Profits: Feb-14 ($-1825558)
+
 
 From this you can see that the highest increase in profits took place on August 16th and the greatest decrease in profits took place on Feburary 14th.
 
@@ -42,3 +44,19 @@ The percentage of votes each candidate won
 The total number of votes each candidate won
 
 The winner of the election based on popular vote
+
+# Election Results
+
+Total Votes: 369711
+
+
+Charles Casper Stockham: 23.049% (85213)
+
+Diana DeGette: 73.812% (272892)
+
+Raymon Anthony Doane: 3.139% (11606)
+
+
+Winner: Diana DeGette
+
+From this you can see that the winner of the election is Diana Degette. She had won with approximately 73% of the total votes.
