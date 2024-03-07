@@ -33,6 +33,7 @@ The greatest decrease in profits (date and amount) over the entire period
 ------------------------------------------------------------------------------
 
 
+
 # PyPoll Instructions
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
 
