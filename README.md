@@ -27,7 +27,7 @@ The greatest decrease in profits (date and amount) over the entire period
   Greatest Decrease in Profits: Feb-14 ($-1825558)
   
   
-  From this you can see that the highest increase in profits took place on August 16th and the greatest decrease in profits took place on Feburary 14th.
+  From this you can see that the total profits were $22,564,198 over eighty-six months and the average change by the months was a decrease of $8,311.11. The day with the highest increase in profits took place on August 16th and the day with the greatest decrease in profits took place on Feburary 14th.
 
 
 ------------------------------------------------------------------------------
@@ -63,4 +63,4 @@ The winner of the election based on popular vote
   
   Winner: Diana DeGette
   
-  From this you can see that the winner of the election is Diana Degette. She had won with approximately 73% of the total votes.
+  From this you can see that the winner of the election is Diana Degette. She had won with approximately 73% of the total votes, which was 369,711.
